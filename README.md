@@ -1,4 +1,7 @@
 # laravel-filebeat
+
+Forked from [shallowman/laravel-filebeat](https://github.com/shallowman/laravel-filebeat)
+
 ## Installation
    
    Require the `shallowman/laravel-filebeat` package in your `composer.json` and update your dependencies:
