@@ -1,5 +1,5 @@
 {
-    "name": "shallowman/laravel-filebeat",
+    "name": "ravaelles/laravel-filebeat",
     "description": "The middleware for application log with json format and correspond to filebeat log collection",
     "keywords": [
         "laravel",
